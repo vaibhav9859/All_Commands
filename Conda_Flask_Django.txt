@@ -4,13 +4,14 @@ CONDA
 conda activate <name of env>
 conda deactivate
 conda env list
-
+conda list 
 
 
 FLASK
 ----------------------------------------------------------
 pip install Flask
 pip list
+
 
 DJANGO
 ----------------------------------------------------------
