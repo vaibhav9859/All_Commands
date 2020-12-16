@@ -1,15 +1,20 @@
+
 CONDA
 ----------------------------------------------------------
 conda activate <name of env>
 conda deactivate
 conda env list
- 
+conda list 
+
 
 
 FLASK
 ----------------------------------------------------------
 pip install Flask
 pip install beautifulSoup
+pip list
+
+
 
 DJANGO
 ----------------------------------------------------------
