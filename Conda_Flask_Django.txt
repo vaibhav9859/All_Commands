@@ -1,10 +1,14 @@
 
 CONDA
 ----------------------------------------------------------
+conda create --name <nameOfEnv>
 conda activate <name of env>
 conda deactivate
 conda env list
 conda list 
+conda install --yes --file requirements.txt
+pip install -r requirements.txt
+
 
 
 
